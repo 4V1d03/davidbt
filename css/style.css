@@ -1,0 +1,27 @@
+#myCarousel {
+    width: 100%;
+    max-width: 100%;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-item {
+    height: 60vh;
+}
+
+.carousel-caption {
+    padding: 1rem;
+}
+
+.featurette-divider {
+    margin: 3rem 0;
+}
+
+.imghero img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
